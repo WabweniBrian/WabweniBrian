@@ -20,7 +20,7 @@ Welcome to my GitHub profile. I'm a passionate developer and designer with exper
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" width="50">
   <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="50">
-  <img src="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" alt="Tailwind CSS" width="50">
+  <img src="[https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css](https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo-thumbnail.png)" alt="Tailwind CSS" width="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Adobe_XD_CC_icon.svg" alt="Adobe XD" width="50">
   <img src="https://firebase.google.com/images/brand-guidelines/logo-logomark.png" alt="Firebase" width="50">
 </p>
