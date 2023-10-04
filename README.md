@@ -54,7 +54,9 @@ Welcome to my GitHub profile. I'm a passionate developer and designer with exper
 - 🌐 Another Website: [wabtech.tech](https://www.wabtech.tech)
 - 🏡 Location: Uganda, Kampala
 
-
+<p align="right">
+  <img src="https://img.itch.zone/aW1hZ2UvMTY1ODIxLzc2NTgwOC5naWY=/347x500/xIcN7/.gif" alt="Loading gif" />
+</p>
 
 ## GitHub Statistics
 <p align="center">
