@@ -3,7 +3,7 @@
 
 <h1 align="center"><b>Hi , Am Wabweni Brian</b><img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="35"></h1>
 <p align='center'>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=11F712&center=true&width=750&lines=I+am+Kevin+Mugarura+B...;I+am...;A+self-motivated+Software+Engineering+student;Self-taught+back-end+developer;I+am+a+space+enthusiast+too!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=11F712&center=true&width=750&lines=I+am+Wabweni+Brian;I+am...;A+self-motivated+Software+Engineering+student;Self-taught+frontend+backend+developer;I+like+gaming+alot+😀+!" alt="Typing SVG" /></a>
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
@@ -27,7 +27,7 @@ Welcome to my GitHub profile. I'm a passionate developer and designer with exper
   <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="50">
   <img src="https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo-thumbnail.png" alt="Tailwind CSS" width="50">
-  <img src="https://w7.pngwing.com/pngs/403/458/png-transparent-adobe-xd-hd-logo-thumbnail.png alt="Adobe XD" width="50">
+  <img src="https://w7.pngwing.com/pngs/403/458/png-transparent-adobe-xd-hd-logo-thumbnail.png" alt="Adobe XD" width="50">
   <img src="https://firebase.google.com/images/brand-guidelines/logo-logomark.png" alt="Firebase" width="50">
 </p>
 
