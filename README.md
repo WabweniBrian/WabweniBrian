@@ -1,7 +1,7 @@
 <!-- Header Section -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h1 align="center"><b>Hello World, Kevin Mugarura here</b><img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="35"></h1>
+<h1 align="center"><b>Hi , Am Wabweni Brian</b><img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="35"></h1>
 <p align='center'>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=11F712&center=true&width=750&lines=I+am+Kevin+Mugarura+B...;I+am...;A+self-motivated+Software+Engineering+student;Self-taught+back-end+developer;I+am+a+space+enthusiast+too!" alt="Typing SVG" /></a>
 <div align="center">
@@ -52,11 +52,7 @@ Welcome to my GitHub profile. I'm a passionate developer and designer with exper
 - 🌐 Another Website: [wabtech.tech](https://www.wabtech.tech)
 - 🏡 Location: Uganda, Kampala
 
-<!-- Footer Section -->
-<div style="display:grid;align-items:center;justify-content:center">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mkb2001&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=mkb2001&layout=compact&theme=gotham&langs_count=8"/>
-</div>
+
 
 ## GitHub Statistics
 <p align="center">
@@ -64,3 +60,8 @@ Welcome to my GitHub profile. I'm a passionate developer and designer with exper
   <img src="https://img.shields.io/github/stars/WabweniBrian?label=Stars&style=for-the-badge">
   <img src="https://img.shields.io/github/last-commit/WabweniBrian/your-repo-name?label=Last%20Commit&style=for-the-badge">
 </p>
+
+<div style="display:grid;align-items:center;justify-content:center">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=WabweniBrian&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=WabweniBrian&layout=compact&theme=gotham&langs_count=8"/>
+</div>
