@@ -9,8 +9,6 @@
        alt="snake" /></a>
 </div>
 
-# Hi there, I'm Brian Wabweni! 👋
-
 Welcome to my GitHub profile. I'm a passionate developer and designer with expertise in a variety of technologies and skills. Let me show you what I can do:
 
 <!-- Skills Section -->
