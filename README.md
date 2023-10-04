@@ -27,6 +27,7 @@ Welcome to my GitHub profile. I'm a passionate developer and designer with exper
   <img src="https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo-thumbnail.png" alt="Tailwind CSS" width="50">
   <img src="https://w7.pngwing.com/pngs/403/458/png-transparent-adobe-xd-hd-logo-thumbnail.png" alt="Adobe XD" width="50">
   <img src="https://firebase.google.com/images/brand-guidelines/logo-logomark.png" alt="Firebase" width="50">
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </div>
 
 </p>
