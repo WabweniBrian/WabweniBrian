@@ -16,7 +16,7 @@ Welcome to my GitHub profile. I'm a passionate developer and designer with exper
 <!-- Skills Section -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
-<p align="center" style="{padding: 16px; border: 1px solid #1a1a1a; border-radius: 20px;}">
+<div align="center" style="padding: 16px; border: 1px solid #1a1a1a; border-radius: 20px; margin:20px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React.js" width="50">
   <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" width="50">
@@ -29,7 +29,7 @@ Welcome to my GitHub profile. I'm a passionate developer and designer with exper
   <img src="https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo-thumbnail.png" alt="Tailwind CSS" width="50">
   <img src="https://w7.pngwing.com/pngs/403/458/png-transparent-adobe-xd-hd-logo-thumbnail.png" alt="Adobe XD" width="50">
   <img src="https://firebase.google.com/images/brand-guidelines/logo-logomark.png" alt="Firebase" width="50">
-</p>
+</div>
 
 </p>
 
