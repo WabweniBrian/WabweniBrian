@@ -66,6 +66,6 @@ Welcome to my GitHub profile. I'm a passionate developer and designer with exper
 </p>
 
 <div style="display:grid;align-items:center;justify-content:center">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Wabtech-B&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=WabweniBrian&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=WabweniBrian&layout=compact&theme=gotham&langs_count=8"/>
 </div>
