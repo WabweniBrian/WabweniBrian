@@ -61,6 +61,7 @@ Welcome to my GitHub profile. I'm a passionate developer and designer with exper
 ## GitHub Statistics
 <p align="center">
   <img src="https://img.shields.io/github/followers/WabweniBrian?label=Followers&style=for-the-badge">
+  <img src="https://img.shields.io/github/followers/Wabtech-B?label=Followers&style=for-the-badge">
   <img src="https://img.shields.io/github/stars/WabweniBrian?label=Stars&style=for-the-badge">
   <img src="https://img.shields.io/github/last-commit/WabweniBrian/your-repo-name?label=Last%20Commit&style=for-the-badge">
 </p>
