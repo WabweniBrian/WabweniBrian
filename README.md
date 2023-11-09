@@ -61,12 +61,11 @@ Welcome to my GitHub profile. I'm a passionate developer and designer with exper
 ## GitHub Statistics
 <p align="center">
   <img src="https://img.shields.io/github/followers/WabweniBrian?label=Followers&style=for-the-badge">
-  <img src="https://img.shields.io/github/followers/Wabtech-B?label=Followers&style=for-the-badge">
   <img src="https://img.shields.io/github/stars/WabweniBrian?label=Stars&style=for-the-badge">
   <img src="https://img.shields.io/github/last-commit/WabweniBrian/your-repo-name?label=Last%20Commit&style=for-the-badge">
 </p>
 
 <div style="display:grid;align-items:center;justify-content:center">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=WabweniBrian&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Wabtech-B&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=WabweniBrian&layout=compact&theme=gotham&langs_count=8"/>
 </div>
