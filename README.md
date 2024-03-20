@@ -8,9 +8,9 @@
 </p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=11F712&center=true&width=750&lines=I+am+Wabweni+Brian;I+am...;A+self-motivated+Software+Engineering+student;Self-taught+frontend+backend+developer;I+like+gaming+alot+😀+!" alt="Typing SVG" /></a>
 
-<p align='center'>
+<center>
 [![committers.top badge](https://user-badge.committers.top/uganda_private/WabweniBrian.svg)](https://user-badge.committers.top/uganda_private/WabweniBrian)
-</p>
+</center>
 
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
