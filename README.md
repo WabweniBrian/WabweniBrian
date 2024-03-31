@@ -53,7 +53,7 @@ Welcome to my GitHub profile. I'm a passionate developer and designer with exper
 <!-- Contact Section -->
 ## Contact Me
 - 📧 Email: [wabwenib66@gmail.com](mailto:wabwenib66@gmail.com)
-- 🌐 Portfolio: [www.wabwenibrian.live](https://www.wabwenibrian.live/)
+- 🌐 Portfolio: [wabwenibrian](https://wabweni-brian.vercel.app/)
 - 🌐 LinkedIn: [Wabweni Brian](https://www.linkedin.com/in/wabweni-brian-631079247/)
 - 🌐 Facebook: [Brian Wabweni](https://www.facebook.com/brian.wabweni)
 - 🌐 Another Website: [wabtech.tech](https://www.wabtech.tech)
