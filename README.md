@@ -56,7 +56,7 @@ Welcome to my GitHub profile. I'm a passionate developer and designer with exper
 - 🌐 Portfolio: [wabwenibrian](https://wabweni-brian.vercel.app/)
 - 🌐 LinkedIn: [Wabweni Brian](https://www.linkedin.com/in/wabweni-brian-631079247/)
 - 🌐 Facebook: [Brian Wabweni](https://www.facebook.com/brian.wabweni)
-- 🌐 Another Website: [wabtech.tech](https://www.wabtech.tech)
+- 🌐 Another Website: [wabtech](https://wabtech.vercel.app)
 - 🏡 Location: Uganda, Kampala
 
 <p align="left">
