@@ -10,6 +10,8 @@
 
 
 [![committers.top badge](https://user-badge.committers.top/uganda_private/WabweniBrian.svg)](https://user-badge.committers.top/uganda_private/WabweniBrian)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=WabweniBrian&label=Profile%20views&color=0e75b6&style=flat" alt="Wabweni Brian" /> </p>
+
 
 
 <div align="center">
