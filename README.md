@@ -10,7 +10,7 @@
 
 
 [![committers.top badge](https://user-badge.committers.top/uganda_private/WabweniBrian.svg)](https://user-badge.committers.top/uganda_private/WabweniBrian)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=WabweniBrian&label=Profile%20views&color=0e75b6&style=flat" alt="Wabweni Brian" /> </p>
+
 
 
 
@@ -77,3 +77,4 @@ Welcome to my GitHub profile. I'm a passionate developer and designer with exper
   <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=WabweniBrian&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=WabweniBrian&layout=compact&theme=gotham&langs_count=8"/>
 </div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=WabweniBrian&label=Profile%20views&color=0e75b6&style=flat" alt="Wabweni Brian" /> </p>
