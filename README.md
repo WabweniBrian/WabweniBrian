@@ -12,13 +12,6 @@
 [![committers.top badge](https://user-badge.committers.top/uganda_private/WabweniBrian.svg)](https://user-badge.committers.top/uganda_private/WabweniBrian)
 
 
-
-
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
 Welcome to my GitHub profile. I'm a passionate developer and designer with expertise in a variety of technologies and skills. Let me show you what I can do:
 
 <!-- Skills Section -->
