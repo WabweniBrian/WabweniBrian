@@ -9,7 +9,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=11F712&center=true&width=750&lines=I+am+Wabweni+Brian;I+am...;A+self-motivated+Software+Engineer;Experienced+frontend+backend+developer;I+like+gaming+alot+😀+!" alt="Typing SVG" /></a>
 
 
-[![committers.top badge](https://user-badge.committers.top/uganda_private/WabweniBrian.svg)](https://user-badge.committers.top/uganda_private/WabweniBrian)
+<!-- [![committers.top badge](https://user-badge.committers.top/uganda_private/WabweniBrian.svg)](https://user-badge.committers.top/uganda_private/WabweniBrian) -->
 
 
 Welcome to my GitHub profile. I'm a passionate developer and designer with expertise in a variety of technologies and skills. Let me show you what I can do:
