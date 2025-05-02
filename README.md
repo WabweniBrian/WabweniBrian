@@ -1,17 +1,17 @@
-<!-- Header Section -->
-<p align="center">
-  <img src="https://www.wabtech.tech/og-image.png" alt="Wabtech Banner" width="100%" />
-</p>
-
 <h1 align="center"><b>Welcome to Wabtech</b> 🚀</h1>
+<p align="center">
+  <a href="https://wabtech.tech">https://wabtech.tech</a>
+</p>
 
 <p align="center">
   <img src="https://www.wabtech.tech/logo.png" alt="Wabtech Logo" width="80" />
 </p>
 
+<p align="center">
 <a href="https://www.wabtech.tech">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=00FF00&center=true&width=750&lines=Crafting+Modern+Web+Experiences;Transforming+Your+Digital+Vision+Into+Reality;Explore+Our+Products+and+Services" alt="Typing SVG" />
 </a>
+</p>
 
 ---
 
@@ -30,7 +30,7 @@
 We provide a range of professional services to bring your digital ideas to life:
 
 - **Custom Web App Development**  
-  Tailored web applications built using modern technologies like React, Next.js, and Laravel.
+  Tailored web applications built using modern technologies like React, Next.js, and Laravel, Node.js.
 
 - **UI/UX Design**  
   Thoughtful design for better user engagement and conversion using tools like Figma & Adobe XD.
@@ -43,6 +43,15 @@ We provide a range of professional services to bring your digital ideas to life:
 
 - **Backend Architecture**  
   Performance-focused server-side development with Node.js, Express, and database design (MongoDB, MySQL, PostgreSQL).
+
+- **SEO (Search Engine Optimization)**  
+  Optimize your website to rank higher on search engines and attract more organic traffic.
+
+- **Website Revamping**  
+  Give your outdated website a fresh, modern, and functional redesign with better UI/UX.
+
+- **Design to Code**  
+  Turn your Figma, Sketch, or Adobe XD designs into responsive and production-ready code.
 
 ---
 
