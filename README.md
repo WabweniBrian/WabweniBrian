@@ -32,6 +32,9 @@ We provide a range of professional services to bring your digital ideas to life:
 - **Custom Web App Development**  
   Tailored web applications built using modern technologies like React, Next.js, and Laravel, Node.js.
 
+- **Mobile App Development (React Native)**  
+  Build performant, cross-platform mobile apps for Android and iOS using React Native.
+
 - **UI/UX Design**  
   Thoughtful design for better user engagement and conversion using tools like Figma & Adobe XD.
 
