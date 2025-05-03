@@ -17,7 +17,7 @@
 
 ## 💼 About Us
 
-**Wabtech** is dedicated to crafting modern, intuitive web solutions that captivate users and drive conversions. Our offerings include:
+**Wabtech** is dedicated to crafting modern, intuitive web and mobile solutions that captivate users and drive conversions. Our offerings include:
 
 - **Modern UI Components**: Beautifully crafted, responsive UI elements for your projects.
 - **Clean Code**: Well-structured, maintainable code that scales with your needs.
