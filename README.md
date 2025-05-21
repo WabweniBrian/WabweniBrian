@@ -25,7 +25,7 @@ When I’m not coding, I enjoy exploring design systems, building reusable compo
 ### [BG Vault](https://bgvault.tech)  
 A growing collection of **80+ free modern backgrounds** built with Tailwind CSS, each with clean and customizable code snippets.
 
-### [Infinity UI](https://infinity.wabtech.tech)  
+### [Infinity UI](https://infinityui.wabtech.tech)  
 A rich library of **350+ FREE reusable UI blocks** for React/Next.js with TypeScript and Tailwind CSS, built for speed and scalability.
 
 ### [AI SaaS Templates](https://ai.wabtech.tech)  
