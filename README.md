@@ -1,82 +1,46 @@
-<h1 align="center"><b>Welcome to Wabtech</b> 🚀</h1>
-<p align="center">
-  <a href="https://wabtech.tech">https://wabtech.tech</a>
-</p>
+<h1 align="center"><b>Hello, I'm Wabweni Brian</b> 🚀</h1>
 
 <p align="center">
-  <img src="https://www.wabtech.tech/logo.png" alt="Wabtech Logo" width="80" />
+  <img src="https://avatars.githubusercontent.com/u/115115387?v=4" alt="Wabweni Brian" width="80" style="border-radius: "50%";>
 </p>
 
 <p align="center">
 <a href="https://www.wabtech.tech">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=00FF00&center=true&width=750&lines=Crafting+Modern+Web+Experiences;Transforming+Your+Digital+Vision+Into+Reality;Explore+Our+Products+and+Services" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=00FF00&center=true&width=750&lines=Software+Developer+%26+Tech+Enthusiast;Crafting+Digital+Experiences;Explore+My+Projects+and+Code" alt="Typing SVG" />
 </a>
 </p>
 
 ---
 
-## 💼 About Us
+## 👨‍💻 About Me
 
-**Wabtech** is dedicated to crafting modern, intuitive web and mobile solutions that captivate users and drive conversions. Our offerings include:
+I’m **Wabweni Brian**, a passionate software developer and tech enthusiast. I specialize in building modern, scalable, and user-centric web and mobile applications using cutting-edge technologies.
 
-- **Modern UI Components**: Beautifully crafted, responsive UI elements for your projects.
-- **Clean Code**: Well-structured, maintainable code that scales with your needs.
-- **Fast Performance**: Optimized for speed and efficiency to enhance user experience.
+When I’m not coding, I enjoy exploring design systems, building reusable components, and contributing to open-source tools that make development faster and more enjoyable.
 
 ---
 
-## 🧰 Services
-
-We provide a range of professional services to bring your digital ideas to life:
-
-- **Custom Web App Development**  
-  Tailored web applications built using modern technologies like React, Next.js, and Laravel, Node.js.
-
-- **Mobile App Development (React Native)**  
-  Build performant, cross-platform mobile apps for Android and iOS using React Native.
-
-- **UI/UX Design**  
-  Thoughtful design for better user engagement and conversion using tools like Figma & Adobe XD.
-
-- **SaaS Application Setup**  
-  Build your software-as-a-service product quickly using reusable components and boilerplates.
-
-- **Frontend Engineering**  
-  Scalable, component-based interfaces using React, Tailwind CSS, and modern frameworks.
-
-- **Backend Architecture**  
-  Performance-focused server-side development with Node.js, Express, and database design (MongoDB, MySQL, PostgreSQL).
-
-- **SEO (Search Engine Optimization)**  
-  Optimize your website to rank higher on search engines and attract more organic traffic.
-
-- **Website Revamping**  
-  Give your outdated website a fresh, modern, and functional redesign with better UI/UX.
-
-- **Design to Code**  
-  Turn your Figma, Sketch, or Adobe XD designs into responsive and production-ready code.
-
----
-
-## 🛠️ Our Products
+## 🚀 Prominent Projects
 
 ### [BG Vault](https://bgvault.tech)  
-80+ free Tailwind CSS modern backgrounds with code snippets.
+A growing collection of **80+ free modern backgrounds** built with Tailwind CSS, each with clean and customizable code snippets.
+
+### [Infinity UI](https://infinity.wabtech.tech)  
+A rich library of **350+ FREE reusable UI blocks** for React/Next.js with TypeScript and Tailwind CSS, built for speed and scalability.
 
 ### [AI SaaS Templates](https://ai.wabtech.tech)  
-Premium niche-specific AI SaaS templates for Next.js 14 & Tailwind CSS.
+High-quality **niche-specific AI SaaS templates** built with Next.js 14 and Tailwind CSS — ideal for rapid SaaS development.
 
-### Infinity UI *(Coming Soon)*  
-350+ modern UI block elements for React/Next.js with TypeScript & Tailwind CSS.
 
 ---
 
-## 📬 Contact Us
+## 📬 Contact
 
-- 📧 Email: [wabtech.tech@gmail.com](mailto:wabtech.tech@gmail.com)
-- 📞 Phone: +256775894639
-- 🌐 Website: [https://www.wabtech.tech](https://www.wabtech.tech)
-- 📍 Location: Kampala, Uganda
+- 📧 Email: [wabwenib66@gmail.com](mailto:wabwenib66@gmail.com)
+- 🌐 LinkedIn: [Wabweni Brian](https://www.linkedin.com/in/wabweni-brian-631079247/)
+- 🌐 Facebook: [Brian Wabweni](https://www.facebook.com/brian.wabweni)
+- 🌐 Another Website: [wabtech](https://wabtech.tech)
+- 🏡 Location: Uganda, Kampala
 
 ---
 
